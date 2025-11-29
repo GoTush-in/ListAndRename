@@ -1,3 +1,4 @@
+![GitHub Release](https://img.shields.io/github/v/release/GoTush-in/ListAndRename)
 # ListAndRename
 
 ListAndRename is a Windows utility that list files in a folder and bath rename files from excel list.
@@ -28,3 +29,4 @@ You can download the application from:
 
 Free to use and free to share — but modification is not allowed.  
 See the `LICENSE` file for full details.
+
